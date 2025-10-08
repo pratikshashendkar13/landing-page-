@@ -17,8 +17,13 @@ It showcases smooth scrolling navigation, animated hero section, features grid, 
 
 ## 🧠 Tech Stack
 - HTML5  
-- CSS3 
-- JavaScript  
+- CSS3 (Flexbox + Grid)  
+- Vanilla JavaScript  
+
+---
+
+## 🌐 Live Demo
+👉 *View on github* : https://pratikshashendkar13.github.io/landing-page-/
 
 ---
 
